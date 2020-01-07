@@ -1,0 +1,15 @@
+Tutorial :
+Download XAMPP For windows 10
+
+Open XAMPP Control Panel, Start Apache and MySQL Services
+Open Browser, Type in : localhost/phpmyadmin , import the database "gym.sql" with database name "gym"
+Open Browser, type in : localhost/FP_Gym
+
+Now you can join membership
+
+Admin Side Security:
+Login to admin
+username : admin
+password : pass
+
+you can insert and delete branches, packages, and trainers
